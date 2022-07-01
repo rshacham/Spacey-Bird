@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8672671926790031064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7053622808345506577}
+  - component: {fileID: 4086035422628869757}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7053622808345506577
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8672671926790031064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9503297, y: -0.24034452, z: -0.15477628}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4086035422628869757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8672671926790031064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a48eed77f7034e843818c8c435cdccdc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minBulletCooldown: 1
+  maxBulletCooldown: 3
+  yRange: {x: -4.36, y: 4.36}
+  astFreqRange: {x: 0, y: 0}
+  enemyX: -7.78
+  asteroidX: 0
+  enemyTypesAmount: 2
+  myEnemy: {fileID: 2943311881237478978, guid: bd90748fd7b26a845b2ac21abd69380f, type: 3}
+  enemyMaxAmount: 0
+  myEnemies: []
+  myAsteroid: {fileID: 577246353394639464, guid: 054cd5e2191008642b747e80d538b329, type: 3}
+  myAsteroids: []
+  livingEnemies: 1
+  enemiesKilled: 0
