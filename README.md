@@ -12,9 +12,9 @@
 
   # About
   
-  The project was made as part of the "Gaming Jam" Course of The Hebrew University of Jerusalem &  Bezalel Academy of Arts and Design.
+  This project was made as part of the "Gaming Jam" Course of The Hebrew University of Jerusalem &  Bezalel Academy of Arts and Design.
     
-  That was the first assignment of the course, and we were asked to create a flappy bird inspired game.
+  This project was the first assignment of the course. We were asked to create a flappy bird inspired game.
   
   I decided to combine the familiar flappy bird mechanics with some shooter mechanics.
   
