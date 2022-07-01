@@ -23,7 +23,7 @@
      
     
   # Gameplay Video
-  [![Watch the video](https://img.youtube.com/vi/IFtrxbnzfBE/hqdefault.jpg)](https://youtu.be/T-D1KVIuvjA)  
+  [![Watch the video](https://img.youtube.com/vi/IFtrxbnzfBE/hqdefault.jpg)](https://www.youtube.com/watch?v=IFtrxbnzfBE)  
   # Download
   [Windows Build - 26mb](https://github.com/rshacham/Spacey-Bird/raw/main/Build/Space%20Chicken(Win).zip)
   
